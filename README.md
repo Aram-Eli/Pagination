@@ -1,7 +1,9 @@
 # Fetch request for the random API
 ### Pagination methods in React solution
 
-### Please check Live [Click Me](https://github.com/Aram-Eli/Pagination)
+### Check source code [Click Me](https://github.com/Aram-Eli/Pagination)
+### Back to Live web page [Back](https://aram-eli.github.io/Pagination/)
+
 
 Api based project fron unsplash website to upload free images 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
